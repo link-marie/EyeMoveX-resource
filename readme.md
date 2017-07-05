@@ -11,7 +11,6 @@ https://play.google.com/store/apps/details?id=com.linknext.ace.emdr3
 
 ![EyeMoveX](https://lh3.googleusercontent.com/nPFjF_dn0v0TQ7eVKQ_JaOGS2RvvVvHPzvekmbPwkK7heLmlWkX--B7nSgxGuGxni5oH8nILtCzGfYlyevRh2nbXWS771zw7O6DlsXJF2XszGChzhrVkJzKDLM-TDFfdfHtGS1Y=s512-no)
 
-![Icon of EyeMoveX(https://raw.githubusercontent.com/link-marie/---/master/Dev/screen/fixme.gif)
 
 # Get Secret Code by Submitting Your Translation!
 
