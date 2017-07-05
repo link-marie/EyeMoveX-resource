@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_disclaimers">免責事項</string>
+    <string name="text_disclaimer">
+<![CDATA[
+
+このアプリケーションは、医学的治療を目的としたものではございません。
+体調や気分の優れない時はご使用はお控えください。
+途中で気分が悪くなるなど体調の変化を感じた場合はすぐにご使用を停止してください。
+
+ ]]>
+</string>
+    
+</resources>

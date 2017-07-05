@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="actionSettings">設定</string>
+    <string name="actionParams">パラメータ</string>
+    <string name="actionHelp">ヘルプ</string>
+    <string name="actionbarPrecautions">ご使用上の注意</string>
+    
+    <string name="actionParamAdjust">パラメータ調整</string>
+	<string name="actionUpdateInfo">アップデート情報</string>
+	<string name="title_help">ヘルプ</string>
+	<string name="title_acknowledgment">謝辞</string>
+
+    <string name="durationEndless">Endless</string>
+    <string-array name="sound_array">
+        <item>BGMなし</item>
+        <item>川上の清らかな流れ</item>
+        <item>森の小鳥のさえずり</item>
+        <item> 音楽トラック選択…</item>
+    </string-array>
+    
+	<string name="dont_show_me_again">以後表示しない</string>
+    <string name="procErrorConnection">接続状態が不明です。しばらくしてからお試しください</string>
+	<string name="procUpdateApp">最新バージョンをインストールしてください</string>
+    <string name="contactMsg1">ご連絡ありがとうございます!</string>
+    <string name="crash_toast_text">不具合情報を生成しています…</string>
+    
+    <string name="movingObject">移動体</string>
+    <string name="movingObjectColor">移動体色</string>
+    <string name="moveMode">動作モード</string>
+    <string name="moveParams">パラメータ</string>
+    <string name="adjSize">サイズ</string>
+    <string name="adjSpeed">スピード</string>
+    <string name="adjAmplitude">振幅</string>
+    <string name="adjAfterImage">残像</string>
+    <string name="adjSubInterval">方向反転間隔</string>
+    
+    <string name="paramBallColorRandom">任意</string>
+    <string name="paramBallDir">方向</string>
+    
+    <string-array name="objectMove">
+        <item>線形(横)</item>
+        <item>円形</item>
+        <item>円形 3D</item>
+        <item>無限</item>
+        <item>無限 3D</item>
+        <item>クロス</item>
+        <item>クロス3D</item>
+        <item>線形(縦)</item>
+	</string-array>
+
+    <string name="exitApp">アプリを終了しますか?</string>
+    
+    <string name="helpStart">\&apos;START\&apos;を押してEyeMove開始</string>
+    <string name="helpStartAdvance">選択した軌道でEyeMove開始</string>
+    <string name="helpSelectMode">回して動作モード選択</string>
+    <string name="helpDuration">\&apos;TIME\&apos;ジョグを回して動作時間設定</string>
+    <string name="helpParamMenu">\&apos;パラメータ\&apos;メニューで詳細設定</string>
+    <string name="helpSettingsMenu">\&apos;設定\&apos;メニューでオプションと情報</string>
+    <string name="helpSelectBGM">EyeMove中のBGM設定</string>
+    <string name="helpControlMode">コントロールモード切り替え</string>
+    
+    <string name="panSoundTitle">サウンド位相</string>
+    <string name="panSoundDescription">オブジェクトに同期して選択したサウンドを左右に振ります。この機能は有償向けです。</string>
+    <string name="panSoundTextOn">pan</string>
+
+	<string name="supportTitle">Ad:一杯分です!</string>
+    <string name="supportDescription">サポートをお願いします! 有償版のメリット:\n\n- 広告が表示されません\n- オフラインで利用可能\n- サウンドを左右に振り分け\n- 更に多くのコントロールボタン</string>
+    <string name="supportDescription2">サポートをお願いします! 有償版のメリット: 広告が表示されません。 オフラインで利用可能。 サウンドを左右に振り分け。 更に多くのコントロールボタン。</string>
+
+	<string name="readPermissionTitle">あなたのメディアを利用しますか?</string>
+	<string name="readPermissionDescription">ファイル情報に取得するための許可が必要です</string>
+
+	<string name="panFunctionLimitTitle">ご不便申し訳ありません..</string>
+    <string name="panFunctionLimitDescription">この機能は無料向けではありません。</string>
+
+	<string name="panShareDlgTitle">あなたの感じることを表現してみよう</string>
+	<string name="panShareDlgContents">共有ボタンを押して、ストレスから浮かんだ心の内を書き出すことが助けになるかもしれません。(Expressive Writingと呼ばれる手法)\n\nなぜ書くことが助けになるのか\n書き出すことであなたのトラウマに意味を与え、考えを整理することが出来るようになるからです</string>
+    <string name="panShareMsgSubject">EMDRセッション</string>
+	<string name="panShareMsgTitle">EyeMoveXトラウマ・セラピー</string>
+    <string name="panShareMsgContent1">今の気持ちは、、</string>
+    <string name="panShareMsgContent2">最新の結果:</string>
+    <string name="shareChooser">共有用アプリの選択</string>
+
+    <string name="drawer_close">メニューを閉じる</string>
+    <string name="drawer_open">メニューを開く</string>
+
+    <string name="lineBefore">前</string>
+    <string name="lineAfter">後</string>
+
+    <string name="labelDetail">詳細</string>
+
+    <string name="actionChart">チャート</string>
+    <string name="actionChartInstruction">チャートについて</string>
+
+    <string name="chartInstructionTitle">操作方法</string>
+    <string name="chartInstructionSummary">表示に関する操作</string>
+    <string name="chartContentsTitle">ヘルプ</string>
+    <string name="chartContentsSummary">チャートの理解</string>
+    <string name="chartJournal">記録</string>
+    <string name="chartJournalSummary">詳細データの表示と操作</string>
+
+    <string name="labelBodyScan">BodyScan</string>
+
+    <string name="actionValidation">評価</string>
+    <string name="actionValidationAfter">後評価</string>
+    <string name="actionValidationBefore">前評価</string>
+
+    <string name="labelSetAndStart">開始</string>
+    <string name="btnValidationStartAfter">セット &amp; 終了</string>
+    <string name="btnValidationStartBefore">セット &amp; スタート</string>
+
+    <string name="validationTitleHeader">各セッションの前後にあなたの状態を評価します。現在の状態を入力して下さい</string>
+
+    <string name="validationTitle1Voc">VOC:</string>
+    <string name="validationTitle2Voc">あなたの前向きな信念..</string>
+    <string name="validationSummaryVoc">7段階の認知評価。 トラウマに対するあなたの前向きな信念は:</string>
+    <string name="validationRangeMinVoc">完全に正しくない</string>
+    <string name="validationRangeMaxVoc">完全に正しい</string>
+
+    <string name="validationTitle1Sud">SUD:</string>
+    <string name="validationTitle2Sud">不快な感情レベル</string>
+    <string name="validationSummarySud">11段階の内省的動揺レベル。トラウマを想像する時かき乱される感情のレベルは:</string>
+    <string name="validationRangeMinSud">不快感なし</string>
+    <string name="validationRangeMaxSud">今までで最悪</string>
+
+    <string name="validationTitle1BodyScan">物理的体調:</string>
+    <string name="validationSummaryBodyScan">現在、体に物理的な感覚を覚える場合はチェックする</string>
+
+    <string name="validationControlNotUse">検査を行わない</string>
+    <string name="validationDataStored">保存完了\nチャートで進捗を管理出来ます</string>
+
+    <string name="actionJournal">記録</string>
+    <string name="journalClearAllTitle">全消去</string>
+    <string name="journalClearAllSummary">データをすべて消去</string>
+    <string name="journalInstructionsTitle">使用法</string>
+    <string name="journalInstructionsSummary">操作方法</string>
+    <string name="journalMsgDataCleared">データは消去されました</string>
+
+    <string name="dlgJournalClearAllTitle">全てのデータを消去しますか?</string>
+    <string name="dlgJournalClearAllMsg">全てのデータはデーターベースより削除され、復元することは出来ません</string>
+
+    <string name="listItemDeleting">消去されます..</string>
+    <string name="listItemTapToUndo">キャンセル</string>
+    <string name="listItemRemovedPositions">消去位置: %s</string>
+
+</resources>

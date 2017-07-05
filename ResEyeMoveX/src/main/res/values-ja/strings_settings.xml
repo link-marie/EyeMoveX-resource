@@ -1,0 +1,68 @@
+<resources>
+
+    <!-- Settings for Theme -->
+    <string name="pref_header_theme">テーマ</string>
+    <string name="pref_title_theme">テーマ選択</string>
+    <string-array name="pref_theme_titles">
+        <item>ダーク</item>
+        <item>ライト</item>
+    </string-array>
+
+    
+    
+    
+    
+    <string name="pref_header_general">一般</string>
+    <string name="pref_header_general_summary">アプリに関する設定</string>
+
+    <string name="prefHeaderParameters">パラメータ</string>
+    <string name="prefHeaderParametersSummary">移動体の設定を行います</string>
+
+    <string name="prefWallpaperTitle">壁紙を更新する</string>
+	<string name="prefWallpaperSummary">メインスクリーンのイメージ切り替えの有効/無効</string>
+	<string name="prefWakeLockTitle">デバイス起動状態制御</string>
+	<string name="prefWakeLockSummary">プロセス中はスリープモードにしない</string>
+	<string name="prefSpeedControlTitle">スピード制御</string>
+	<string name="prefSpeedControlSummary">ボリュームキーで、オブジェクト動作スピードを可変する</string>
+    <string name="prefValidationSummary">セッションの前後に、VOC, SUD, Body Scanの評価を行う</string>
+
+    <string name="pref_header_app">アプリ</string>
+    <string name="pref_header_app_summary">レビュー, フィードバック, &#8230;</string>
+    
+    <string name="helpReview">レビュー</string>
+    <string name="helpReviewThisApp">もし気に入っていただけたなら、レビューを書いてくださいませんか :)</string>
+
+    <string name="helpSendFeedback">フィードバック</string>
+    <string name="helpSendFeedbackSummary1">改善点がございますか? バグがありますか? %1$s までご連絡ください!</string>
+    
+    <string name="helpUpdateInfo">更新情報</string>
+    <string name="helpUpdateInfoSummary">最近の更新内容を表示します</string>
+    
+    <string name="helpHowToUse">使用法</string>
+    <string name="helpHowToUseSummary">ウィキ</string>
+    
+    <string name="helpAcknowledgement">謝辞</string>
+    <string name="helpAcknowledgementSummary">内容を確認する</string>
+    
+    <string name="helpDisclaimers">免責事項</string>
+    <string name="helpDisclaimersSummary">内容を確認する</string>
+    
+    <string name="helpPrivacyPolicy">個人情報</string>
+    <string name="helpPrivacyPolicySummary">このアプリはプライバシー情報に一切アクセスしません</string>
+    
+    <string name="helpAbout">このアプリについて</string>
+
+    <string name="pref_menu_mode">モード</string>
+    <string name="pref_menu_support">サポート</string>
+    <string name="pref_menu_params">パラメータ</string>
+
+    <!-- Settings for ScreenLock -->
+    <string name="prefScreenLock">画面の向き</string>
+    <string name="prefTitleScreenLock">画面の向き</string>
+    <string-array name="prefScreenLockTitles">
+        <item>横向きに固定</item>
+        <item>縦向きに固定</item>
+        <item>自動</item>
+    </string-array>
+
+</resources>

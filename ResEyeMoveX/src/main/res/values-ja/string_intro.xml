@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="intro1Title">スタート</string>
+    <string name="intro1Description">ボタン押して開始.\n回転で動作選択</string>
+    <string name="intro2Title">動作時間設定</string>
+    <string name="intro2Description">ボタン押して時間変更.\n回転で微調整.</string>
+    <string name="introSequenceTitle">シーケンス</string>
+    <string name="introSequenceDescription">各セッションの前後に\n状態の検査を行います</string>
+    <string name="introProgressTitle">状況の改善\n検査の履歴</string>
+    <string name="introProgressDescription">VOCとSUD値により\nセッションの状況を把握します</string>
+    <string name="introParamsTitle">あなたに最適な設定を</string>
+    <string name="introParamsDescription">最適な移動体、\n色、パラメータの設定.</string>
+    <string name="introSettingsTitle">デフォルト設定の変更: 背景画像, 画面向き,など,</string>
+    <string name="introSettingsDescription">[設定]より詳細なオプションが選べます</string>
+    <string name="intro4Title">EMDRとは</string>
+    <string name="intro4Description">EMDR詳細について正確に学びましょう</string>
+    <string name="intro4Click">更に情報を取得!</string>
+
+    <string name="introDesclaimers">このアプリは医療治療を目的にしていません。治療はお近くの専門家にご相談下さい。</string>
+    <string name="introAmazonOpen">Amazonページが開きます</string>
+
+</resources>

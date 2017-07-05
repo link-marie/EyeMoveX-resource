@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titleOperation1">Operation</string>
+    <string name="titleOperation2">How to use this app</string>
+    <string name="titleAbout1">About EMDR</string>
+    <string name="titleAbout2">What is EMDR. 8 phases, principle.</string>
+    <string name="titlePhase1_1">Phase 1: History and Planning</string>
+    <string name="titlePhase1_2">your history of early development, illness and  treatment planning</string>
+    <string name="titlePhase2_1">Phase 2: Preparation</string>
+    <string name="titlePhase2_2">learn self-care relaxation techniques</string>
+    <string name="titlePhase3_1">Phase 3: Assessment</string>
+    <string name="titlePhase3_2">creates the groundwork for your actual EMDR therapy sessions</string>
+    <string name="titlePhase3_3">Validation</string>
+    <string name="titlePhase3_4">VOC, SUD, Physical sensation</string>
+    <string name="titlePhase4_1">Phase 4: Desensitization</string>
+    <string name="titlePhase4_2">a method reducing irritability by getting closer to your unpleasure target step by step</string>
+    <string name="titlePhase5_1">Phase 5: Installation</string>
+    <string name="titlePhase5_2">replace your old negative belief by positive belief</string>
+    <string name="titlePhase6_1">Phase 6: Body Scan</string>
+    <string name="titlePhase6_2">check your any bodily tension or uncomfortable physical sensations</string>
+    <string name="titlePhase7_1">Phase 7: Closure</string>
+    <string name="titlePhase7_2">Check the session results</string>
+    <string name="titlePhase8_1">Phase 8: Reevaluation</string>
+    <string name="titlePhase8_2">Review the session and create a next schedule</string>
+    <string name="titleProsCons1">Benefits and Drawbacks</string>
+    <string name="titleProsCons2">list of pros and cons</string>
+    <string name="titleResearch1">Researches</string>
+    <string name="titleResearch2">learn the latest researches on EMDR</string>
+    <string name="titleFindAnTherapist1">Finding an EMDR therapist</string>
+    <string name="titleFindAnTherapist2">EMDR should be conducted by a licensed mental health professional</string>
+    <string name="titleBecomeAnTherapist1">Become an therapist</string>
+    <string name="titleBecomeAnTherapist2">Finding a job</string>
+    <string name="titleParameters1">Parameters</string>
+    <string name="titleParameters2">Settings for the moving object</string>
+    <string name="titleWallpaper1">Wallpaper</string>
+    <string name="titleWallpaper2">Enable/Disable background wallpaper update</string>
+    <string name="titleChart1">Chart</string>
+    <string name="titleChart2">Validation (VOC, SUD) graph history</string>
+
+    <string name="textAbout">
+<![CDATA[
+    <h2>Note:</h2>
+    <p>This information is not intended to be a substitute for professional
+      advice.<br>
+      Hoping this for you to understand EMDR and work with a professional
+      therapist to make an informed choice about whether EMDR therapy is good
+      for you.</p>
+    <h2>What is EMDR?</h2>
+    <p>EMDR (Eye Movement Desensitization and Reprocessing) is one of trauma
+      therapies.<br>
+      <br>
+      While using rapid eye movements to facilitate the process, EMDR involves </p>
+    <ol>
+    </ol>
+    &nbsp; 1. “recalling” a stressful past event and <br>
+    &nbsp; 2. “reprogramming” the memory.<br>
+    <br>
+    EMDR is developed by psychologist Dr. Francine Shapiro.<br>
+    When she strolled through a park one day, she noticed her own stress
+    reactions diminished when her eyes swept back and forth.<br>
+    <p> Eye movements can reduce the intensity of the disturbing thoughts.<br>
+      <br>
+      Why EMDR works are still evolving.<br>
+      However many people have found EMDR to be extremely beneficial. <br>
+      Learn about this complex and often misunderstood therapy.</p>
+    <h2>EMDR therapy 8 phases</h2>
+    <p>One standard session of EMDR therapy is consisted from 8 phases.<br>
+      EMDR therapy contains several sessions including eye movements of
+      bilateral or other forms of rhythmic, left-right stimulation. (in Phase 4,
+      5 and 6)</p>
+    <p>Phase 1: History and Planning<br>
+      Phase 2: Preparation<br>
+      Phase 3: Assessment<br>
+      Phase 4: Desensitization<br>
+      Phase 5: Installation<br>
+      Phase 6: Body Scan<br>
+      Phase 7: Closure<br>
+      Phase 8: Reevaluation<br>
+    </p>
+    EMDR often helps people feel better very quickly.<br>
+    <p> Note that it is important to work through the entire 8-phase process
+      with a qualified EMDR therapist to ensure the most beneficial, lasting
+      results.<br>
+      <br>
+      One of the key points of EMDR is “dual stimulation”.</p>
+    <ol>
+    </ol>
+    &nbsp; 1. While focusing on moving object of bilateral stimuli,<br>
+    &nbsp; 2. You imagine or talk about memories, triggers, and painful
+    emotions.
+    <p>Other forms of external stimuli that may be used.<br>
+      For example, alternating hand taps or sound that pans back and forth from
+      ear to ear.</p>
+    <h2>What is EMDR principle?</h2>
+    <p>A traumatic event becomes “frozen in time”.<br>
+      Because strong emotions interfere with our ability to process the
+      experience.<br>
+      <br>
+      You may feel as if you are reliving the event all over again by just
+      recalling the traumatic event.<br>
+      Because the image, feelings, sound, five senses are still there and come
+      back in the present.<br>
+      Once the event was re-activated, the memories cause a negative effect on</p>
+    <ul>
+    </ul>
+    &nbsp; - our daily living<br>
+    &nbsp; - our visions<br>
+    &nbsp; - our world<br>
+    &nbsp; - our relation to others.<br>
+    <p> EMDR therapy appears to directly affect the brain.<br>
+      It enables “unfreezing” the traumatic memories, allowing you to resolve
+      them.<br>
+      <br>
+      EMDR therapy is iterated the traumatic memory (and associated beliefs /
+      feelings / sensations) is digested until you are able to think about the
+      event without reliving it. <br>
+      <br>
+      The memory is still there, but it is less disturbing.<br>
+      <br>
+      The exact mechanism for the effectiveness of EMDR is yet unknown. <br>
+      <br>
+      It appears that using rapid eye movements relieves the anxiety associated
+      with the trauma.<br>
+      The traumatic event can be examined from a more detached perspective,
+      somewhat like watching a movie.<br>
+      <br>
+      This enables you to access positive ways of re-framing the traumatic event
+      (<u>reprocessing</u>),<br>
+      and to release the body’s stored negative emotional charges around it (<u>desensitization</u>).<br>
+      <br>
+      Some professionals say the eye movements in EMDR might be similar to REM
+      (rapid eye movement)&nbsp; what occurs naturally during dreaming or sleep.
+    </p>
+    <br>
+    <h2>Trapped by Memories:</h2>
+    <h4>How a single trauma can impact our lives</h4>
+    <p>Francine Shapiro, the creator of EMDR, uses the example of a rape
+      survivor to illustrate how people can get “trapped” by memories of
+      trauma.&nbsp; While a woman who has been raped might intellectually know
+      that she’s not to blame, but she still may feel emotions of guilt and
+      shame surrounding the attack.&nbsp; Her memory of the rape is then forever
+      affected by these emotions, which she hasn’t fully explored or dealt with.
+      Shapiro believes that as time goes by, “when the individual thinks about
+      the trauma, or when the memory is triggered by similar situations, the
+      person may feel like she is reliving it, or may experience strong emotions
+      and physical sensations.”<br>
+      Source: <a href="http://emdr.com/">EMDR.com</a></p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+ ]]>
+</string>
+
+<string name="textPhase1">
+<![CDATA[
+    <h4>History of early development, illness and&nbsp; treatment planning</h4>
+    If you choose to try EMDR therapy,&nbsp; your first session will likely
+    involve the therapist taking an initial client history. <br>
+    Your therapist will probably ask you about what have brought you into
+    therapy like:<br>
+    &nbsp;- your history of early developments<br>
+    &nbsp;- your problems<br>
+    &nbsp;- your behaviors<br>
+    &nbsp;- your fear<br>
+    &nbsp;- your history of illness <br>
+    <br>
+    One difference between EMDR and many other therapies is <br>
+    you won’t be asked to discuss the traumatic event in detail.<br>
+    Because the emotions and physical sensations surrounding the event are
+    important,&nbsp; not the details about the event itself. <br>
+    <br>
+    Once the therapist has developed a treatment plan for you the process of
+    EMDR can before.<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+ ]]>
+</string>
+<string name="textPhase2">
+<![CDATA[
+    Your therapist will explain the theory of EMDR in detail, and talk about
+    what you can expect in the following sessions.<br>
+    <br>
+    EMDR places a strong emphasis on self-care. <br>
+    Your therapist will teach you some self-care techniques.<br>
+    So that you can handle strong emotions that may arise during or between
+    sessions. <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+ ]]>
+</string>
+<string name="textPhase3">
+<![CDATA[
+    <p>The assessment phase creates the groundwork for your actual EMDR
+      therapy sessions. <br>
+      Your therapist will ask you to identify three things:<br>
+      <br>
+      1. A specific scene or picture that best represents your traumatic event.
+      <br>
+      You probably have already discussed your target event in your first
+      session. <br>
+      At this point you will clarify visualize the trauma you experienced,
+      including associated emotions and bodily sensations.<br>
+      <br>
+      2. A negative belief about yourself associated with the traumatic event.<br>
+    </p>
+    <p> For example:&nbsp; <br>
+      &nbsp; “I am helpless.” <br>
+      &nbsp; “I am worthless.”<br>
+      &nbsp; “I am a bad person.”<br>
+      and so on.<br>
+      <br>
+      3. A positive belief you would rather believe about yourself. <br>
+      This positive belief should reflect what is appropriate in the present. <br>
+      For example, suppose you survived an assault:<br>
+      <br>
+      negative belief: </p>
+    <p>&nbsp;&nbsp; “I’m in danger.” <br>
+      <br>
+      You might replace it with the <br>
+    </p>
+    <p>positive belief: </p>
+    <p>&nbsp;&nbsp; “I’m safe now.”</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr>
+ ]]>
+</string>
+<string name="textPhase3Validation">
+<![CDATA[
+    <p>
+    Validations are done before and after an EMDR session.
+
+    <img src="ic_slide_sequence">
+    <br>
+
+    <br>
+    <p><b>VOC</b>: <br>
+    </p>
+    <p>7 scales : Validity of Cognition<br>
+    </p>
+    <p> </p>
+    <p>In Phase 3, once the visual image and negative and positive beliefs have
+      been identified, rate how strongly you feel the positive thought to be
+      true using 7 scale VOC.<br>
+      <br>
+      &nbsp; 1: completely false&nbsp;&nbsp;&nbsp;&nbsp; <br>
+      &nbsp;&nbsp; . . .&nbsp;&nbsp;&nbsp; </p>
+    &nbsp; 7: completely true
+    <p><br>
+    </p>
+    <p><b>SUD</b>: <br>
+    </p>
+    <p> 11 scales :&nbsp; Subjective Units of Disturbance<br>
+    </p>
+    <p> </p>
+    <p>Also describe the disturbing emotions you feel when you focus on the
+      visual image and rate their intensities on the 11-scale SUD.<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; 0:&nbsp; the emotion isn’t distressing at
+      all&nbsp;&nbsp;&nbsp; <br>
+      &nbsp;&nbsp; . . .&nbsp; <br>
+      &nbsp; 10:&nbsp; it’s the worst feeling you’ve ever had<br>
+    </p>
+    <br>
+    <b>Body Scan:</b>
+    <p> And identify the locations in the body where you feel physical
+      sensations when you think about the trauma.<br>
+    </p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+ ]]>
+</string>
+<string name="textPhase4">
+<![CDATA[
+ Desensitization is a method reducing irritability by getting closer to your
+    unpleasure target step by step. <br>
+    <br>
+	In phases 4-6, rapid eye movement can be used.
+	Choose a comfortable moving object, trajectory of the object and speed.
+	In those phases,  you recall your target image while leading you through a series of rapid eye movements (tracking on the moving object by starting this app or alternating bilateral audio or tactile stimulation and or a combination thereof).
+    <br>
+    <br>
+    With your attention split between the internal image you’re concentrating on
+    and the external stimuli of the moving object on the screen, you’re able to
+    experience the distressing memory while remaining grounded in the present,
+    enabling you to process and re-frame the trauma.<br>
+    <br>
+    During the desensitization phase, you’ll pay attention to all the negative
+    beliefs and disturbing emotions and bodily sensations that come up as you
+    focus on your target image while following the moving object back and forth
+    with your eyes. <br>
+    <br>
+    Please take note of all your reactions to the processing, good, bad, or
+    neutral, …, including any new insights, associations, or emotions you
+    experience.<br>
+    <br>
+    After each set of rapid eye movements, check in with you and assess your
+    level of disturbance regarding the target image. <br>
+    <br>
+    During this process, you will continue to “digest” or process the feelings,
+    images and beliefs that occur in relation to the trauma target. <br>
+    <br>
+    The desensitization phase continues until your distress level, as measured
+    by the SUD scale, is reduced to 0 or 1.<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+ ]]>
+</string>
+<string name="textPhase5">
+<![CDATA[
+ In this installation phase, focus on the positive belief you’ve identified
+    to replace your old negative belief about the trauma. <br>
+    According to the <a href="http://www.emdrnetwork.org/">EMDR Network</a>,&nbsp;
+    “positive self-beliefs are most important.” <br>
+    <br>
+    As in phase 4, you’ll concentrate on this mental image while simultaneously
+    tracking the moving object with your eyes. <br>
+    <br>
+    The goal is to strengthen the positive belief or self-statement until you
+    accept it as fully true.<br>
+    After each set of rapid eye movements, rate the positive belief on the
+    7-scale VOC, which gives the measures of how you are progressing. <br>
+    <br>
+    The installation phase is complete once you are able to accept the positive
+    belief at a level of 7 (“completely true”).<br>
+    <br>
+    What is unique about EMDR is how rapidly new beliefs about the self and
+    interpretations of the trauma replace old beliefs. <br>
+    New possibilities emerge that were never before considered.<br>
+    These new insights are used as the starting points for the next set of eye
+    movements, continually helping you to process the trauma in healthier, more
+    manageable ways.<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+ ]]>
+</string>
+<string name="textPhase6">
+<![CDATA[
+    In phase 5, you replaced negative beliefs surrounding the trauma with
+    healthier, positive beliefs.<br>
+    The next phase is to focus on any lingering physical sensations. <br>
+    You imagine about your original target while scanning your body from head to
+    toe, looking for residual tension. <br>
+    <br>
+    Any bodily tension or uncomfortable physical sensations are then targeted
+    with bilateral stimulation until they are resolved.<br>
+    <br>
+    Phase 6 is considered successful when you are able to think or talk about
+    the original target without feeling any body tension.<br>
+    <br>
+    Monitor the intensity of your symptoms between sessions <br>
+    to ensure that progress is being made and maintained.<br>
+    According to the EMDR Network, <br>
+    reprocessing a single trauma is generally accomplished within three
+    sessions. <br>
+    If treatment takes longer, you should still see some improvement within that
+    amount of time.
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+ ]]>
+</string>
+<string name="textPhase7">
+<![CDATA[
+    <p>One of the goals of an EMDR session is for you to become feeling better
+      than you did when you started. <br>
+      If you haven’t been able to finish working through the target trauma in a
+      particular session, your therapist will lead you through a variety of
+      relaxation techniques (drawing from what you were taught in Phase 2)
+      designed to bring you back into emotional equilibrium.</p>
+    <p>Your therapist will also prepare you for what you may experience between
+      sessions.<br>
+      For example, disturbing images, thoughts, and emotions may arise during
+      the week as you continue to process the trauma. <br>
+      You will be instructed to keep a journal of these negative memories and
+      thoughts, while will help you distance yourself from the disturbance and
+      give you new targets for future therapy sessions.<br>
+      Your therapist will also review the visualization techniques and
+      relaxation exercises you canuse to maintain emotional balance between
+      sessions.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+ ]]>
+</string>
+<string name="textPhase8">
+<![CDATA[
+    <p>Each new session begins with a reevaluation of your progress. <br>
+      First, you will be asked to focus on any targets you’ve already
+      re-processed. <br>
+      Your therapist will review your responses, checking to see if you’ve
+      maintained the positive results. <br>
+      Your therapist may also ask you how you feel about the previously-treated
+      targets and review any disturbances that came up between sessions. <br>
+      Based on this reevaluation, your therapist will decide whether to move on
+      to new targets or to revisit old targets for additional reprocessing and
+      integration.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+ ]]>
+</string>
+<string name="textProsCons">
+<![CDATA[
+    <p>EMDR therapy is relatively new, developed in 1987, and the scientific
+      community continues<br>
+      to examine its long-term results. <br>
+      While there are differing opinions on how effective this treatment really
+      is, the main benefit of EMDR is the speed at which deep-seated problems
+      can be resolved.<br>
+      Single sessions of EMDR have been shown to produce results, and Dr.
+      Francine Shapiro<br>
+      reports an average treatment time of five sessions to comprehensively
+      treat people with post-traumatic stress disorder.<br>
+      To help you make your own decisions regarding EMDR, review the following
+      list of reported<br>
+      benefits and drawbacks.</p>
+    <p>[Benefits]<br>
+      &nbsp;- EMDR does not require you to go into detail about the distressing
+      events of the past. <br>
+      &nbsp;- Unlike many “talk” therapies, the trauma itself is not analyzed
+      for long periods of time.<br>
+      &nbsp;- EMDR simultaneously works on mind, body, and emotions.<br>
+      &nbsp;- Its success in taking mere intellectual understanding of the
+      origins of a problem. An intellectual understanding (e.g. “I know I have
+      guilt over killing in the war”) is to a resolution where post-traumatic
+      symptoms clear up.<br>
+      &nbsp;- The trauma that must be re-experienced during treatment is
+      relatively short-lived.<br>
+      &nbsp;- Cognitive reprocessing occurs simultaneously with memory recall.<br>
+      <br>
+      [Drawbacks]<br>
+      &nbsp;- EMDR has not been proven effective in studies on phobias, panic
+      disorder or stress related disorders, only on PTSD.<br>
+      &nbsp;- EMDR was created for use as a trauma therapy and as such focuses
+      on intensely stressful subjects. <br>
+      &nbsp;- Pregnant women, or those with heart conditions, eye problems, or
+      other health issues should consult their doctor before beginning EMDR
+      therapy.<br>
+      &nbsp;- EMDR is a relatively new therapy and as such the verdict is still
+      out as to its long-term effectiveness.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+ ]]>
+</string>
+<string name="textResearch">
+<![CDATA[
+    <p>There is a vigorous debate within the psychological community regarding
+      the efficacy of EMDR, especially when compared with other types of
+      therapy. <br>
+      Those on both sides are passionate about their claims and present plenty
+      of food for discussions.<br>
+      Critics question the scientific validity of the method and the lack of
+      data explaining how EMDR works. <br>
+      On the other hand, numerous people have reported significant benefits from
+      EMDR treatment, as have many studies published in peer-reviewed journals
+      and papers. <br>
+      Based on the encouraging results of these studies, in 1999, both the <a href="http://www.apa.org/">American
+        Psychological Association (APA)</a> and the <a href="https://www.istss.org/">International
+        Society of Traumatic Stress Studies (ISTSS</a>) approved EMDR as a valid
+      therapy for post-traumatic stress disorder.<br>
+      <br>
+    </p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+]]>
+</string>
+<string name="textFindAnTherapist">
+<![CDATA[
+    <p>EMDR is a highly specialized therapy that should be conducted by a
+      licensed mental health professional who has specific training in this
+      complex approach. <br>
+      Due to the relative newness of this therapy, some clinicians may not have
+      received appropriate training. <br>
+      Also, they maybe inexperienced in the actual practice of EMDR, or be
+      out-of-date with the latest developments in the therapy.<br>
+      The two most widely respected professional organizations for EMDR are <br>
+      the <a href="http://www.emdria.org/">EMDR International Association</a>
+      and <br>
+      the <a href="http://www.emdr.com/">EMDR Institute</a>. <br>
+      Both organizations list certified and trained therapists who have met the
+      necessary requirements to provide EMDR therapy.<br>
+      <br>
+      
+      Questions to Ask a Potential EMDR Therapist<br>
+      &nbsp;- Have you received both Part 1 and 2 of the basic training?<br>
+      &nbsp;- Was your training program approved by EMDRIA or EMDR Europe?<br>
+      &nbsp;- Have you kept up to date about the latest protocols and
+      developments?<br>
+      &nbsp;- How many people with my particular problems or disorder have you
+      successfully treated?<br>
+      &nbsp;- What is your success rate?<br>
+      &nbsp;- Are you doing standard EMDR as it is (a.) described in Dr. Shapiro\'s text 
+      , and (b.) been tested in research?
+      &nbsp;- Will you discuss with me the way EMDR can deal with my
+      obvious symptoms?<br>
+      &nbsp;- Will you also discuss with me the ways EMDR can be used to help me
+      live a happier, more productive life by treating the other negative
+      memories, beliefs, feelings, and actions that may be running my life?<br>
+      Source: <a href="http://www.emdrnetwork.org/">EMDR Network</a>
+     <br>
+    </p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+ ]]>
+</string>
+
+</resources>

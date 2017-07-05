@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="marketAppTitle">EyeMove EMDR Therapy</string>
+    <string name="marketShortDescription">EMDR alleviates PTSD, trauma, phobia. Try it yourself. OpenGL Smooth animation</string>
+
+    <string name="marketDescription">
+<![CDATA[
+
+Thank you for choosing this application !
+
+[The App]
+EMDR alleviates the symptoms of PTSD, trauma, panic disorder, phobia and so on.
+Please try the effect yourself with smooth animation with OpenGL on your mobile or tablet
+
+[Functions]
+- Easy, Simple and intuitive to use
+- Smooth animation with OpenGL
+- Select a moving object
+- Full screen motion for your concentration
+- Adjustable process duration from 10 sec to 5 min or endress
+- Speed, Size, Color of the object as you like
+- Choose your audio or a natural sound as BGM
+- Tablet support
+- Automate wallpaper changer for your relaxation
+- Choose a theme of the app
+- No advertisement (For paid version)
+- Available to use in off-line (For paid version)
+
+[Benefits of the paid version]
+- No advertisement
+- Available to use in off-line
+- Sound panning function
+- More control buttons on the main screen in the advanced mode
+
+[Disclaimer]
+This app is not designed for treatment.
+Please consult your official medical agency and/or therapist for your treatment.
+
+ ]]>
+</string>
+
+</resources>

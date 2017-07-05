@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="actionSettings">Settings</string>
+    <string name="actionParams">Params</string>
+    <string name="actionHelp">Help</string>
+    <string name="actionbarPrecautions">Precautions</string>
+
+    <string name="actionParamAdjust">Parameter adjust</string>
+    <string name="actionUpdateInfo">Update Information</string>
+    <string name="title_help">help</string>
+    <string name="title_acknowledgment">Acknowledgment</string>
+
+    <string name="durationEndless">Endless</string>
+    <string-array name="sound_array">
+        <item>No BGM</item>
+        <item>Pure upstream flow</item>
+        <item>Birdsong in the forest</item>
+        <item>Select my sound…</item>
+    </string-array>
+
+    <string name="dont_show_me_again">Don\'t show me again</string>
+    <string name="procErrorConnection">Connection state unknown. Please try a little later.</string>
+    <string name="procUpdateApp">Please install the latest version</string>
+    <string name="contactMsg1">Thank you for your contact!</string>
+    <string name="crash_toast_text">Building crash report…</string>
+
+    <string name="movingObject">Moving Object</string>
+    <string name="movingObjectColor">Object Color</string>
+    <string name="moveMode">Move mode</string>
+    <string name="moveParams">Parameter</string>
+    <string name="adjSize">Size</string>
+    <string name="adjSpeed">Speed</string>
+    <string name="adjAmplitude">Amplitude</string>
+    <string name="adjAfterImage">After Image</string>
+    <string name="adjSubInterval">Direction Switch Interval</string>
+
+    <string name="paramBallColorRandom">Rnd</string>
+    <string name="paramBallDir">Dir</string>
+
+    <string-array name="objectMove">
+        <item>Linear(H)</item>
+        <item>Circle</item>
+        <item>Circle 3D</item>
+        <item>Infinity</item>
+        <item>Infinity 3D</item>
+        <item>Diagonal</item>
+        <item>Diagonal 3D</item>
+        <item>Linear(V)</item>
+    </string-array>
+
+    <string name="exitApp">Exit app?</string>
+
+    <string name="helpStart">Press \&apos;START\&apos; for EyeMove session</string>
+    <string name="helpStartAdvance">Start EyeMove with selected trajectory</string>
+    <string name="helpSelectMode">Rotate to select an object move mode</string>
+    <string name="helpDuration">Rotate \&apos;TIME\&apos; Jog dial to set duration</string>
+    <string name="helpParamMenu">Detail setting from \&apos;Params\&apos; menu</string>
+    <string name="helpSettingsMenu">Options and info from \&apos;Settings\&apos; menu</string>
+    <string name="helpSelectBGM">BGM selection during EyeMove session</string>
+    <string name="helpControlMode">Change control mode</string>
+
+    <string name="panSoundTitle">Sound panning</string>
+    <string name="panSoundDescription">Pan selected sound synchronized with the object. This feature is for paid version.</string>
+    <string name="panSoundTextOn">pan</string>
+
+    <string name="supportTitle">Ad: Just One Cup!</string>
+    <string name="supportDescription">Please support us. Benefits of the paid version:\n\n- No Advertisements\n- Available to use in offline\n- Sound panning function\n- More
+        control buttons
+    </string>
+    <string name="supportDescription2">Please support us! Benefits of the paid version: No Advertisements. Available to use in offline. Sound panning function. More control
+        buttons!!
+    </string>
+
+    <string name="readPermissionTitle">Use your own media?</string>
+    <string name="readPermissionDescription">Need permission to get file information</string>
+
+    <string name="panFunctionLimitTitle">Sorry for the inconvenience..</string>
+    <string name="panFunctionLimitDescription">The feature is not for free version..</string>
+
+    <string name="panShareDlgTitle">Let\'s express your feelings</string>
+    <string name="panShareDlgContents">Click the share button and writing about thoughts arise from a stressful experience — called expressive writing — may help.\n\nWhy writing
+        may help\nWriting helps you to organize thoughts and give meaning to a traumatic experience.
+    </string>
+    <string name="panShareMsgSubject">EMDR session</string>
+    <string name="panShareMsgTitle">EyeMoveX Trauma Therapy</string>
+    <string name="panShareMsgContent1">What I feel now is ..</string>
+    <string name="panShareMsgContent2">My last result: </string>
+    <string name="shareChooser">Choose Your App</string>
+
+    <string name="drawer_open">Menu open</string>
+    <string name="drawer_close">Menu closed</string>
+
+    <string name="lineBefore">Before</string>
+    <string name="lineAfter">After</string>
+
+    <string name="labelDetail">Detail</string>
+
+    <string name="actionChart">Charts</string>
+    <string name="actionChartInstruction">Chart Instruction</string>
+
+    <string name="chartInstructionTitle">Instructions</string>
+    <string name="chartInstructionSummary">Operations for viewing</string>
+    <string name="chartContentsTitle">Contents</string>
+    <string name="chartContentsSummary">Understanding the meaning of data</string>
+    <string name="chartJournal">Journal</string>
+    <string name="chartJournalSummary">Review and Manipulate raw data</string>
+
+    <string name="labelBodyScan">BodyScan</string>
+
+    <string name="actionValidation">Validation</string>
+    <string name="actionValidationBefore">Before Validation</string>
+    <string name="actionValidationAfter">After Validation</string>
+
+    <string name="labelSetAndStart">Start</string>
+    <string name="btnValidationStartBefore">Set &amp; Start</string>
+    <string name="btnValidationStartAfter">Set &amp; Done</string>
+
+    <string name="validationTitleHeader">Before and after each session, your condition is validated.  Set your current conditions.</string>
+
+    <string name="validationTitle1Voc">VOC:</string>
+    <string name="validationTitle2Voc">Your positive belief..</string>
+    <string name="validationSummaryVoc">7 scales validity of cognition. Your positive belief toward the traumatic event is:</string>
+    <string name="validationRangeMinVoc">Completely False</string>
+    <string name="validationRangeMaxVoc">Completely True</string>
+
+    <string name="validationTitle1Sud">SUD:</string>
+    <string name="validationTitle2Sud">Disturbing emotion level</string>
+    <string name="validationSummarySud">11 scales subjective unit of disturbance. Disturbing emotion when you focus on the traumatic event is:</string>
+    <string name="validationRangeMinSud">Not distress</string>
+    <string name="validationRangeMaxSud">Worst ever</string>
+
+    <string name="validationTitle1BodyScan">Body Scan:</string>
+    <string name="validationSummaryBodyScan">Check if you feel physical sensations right now</string>
+
+    <string name="validationControlNotUse">Never use\nthis function</string>
+    <string name="validationDataStored">Data stored.\nMonitor progress on charts</string>
+
+    <string name="actionJournal">Journal</string>
+    <string name="journalClearAllTitle">Clear All</string>
+    <string name="journalClearAllSummary">Delete all data in database</string>
+    <string name="journalInstructionsTitle">Instructions</string>
+    <string name="journalInstructionsSummary">Operations</string>
+    <string name="journalMsgDataCleared">Data Cleared</string>
+
+    <string name="dlgJournalClearAllTitle">Delete all data?</string>
+    <string name="dlgJournalClearAllMsg">All data will be deleted from the database and cannot be recovered.</string>
+
+    <string name="listItemDeleting">Item deleting..</string>
+    <string name="listItemTapToUndo">Tap to undo</string>
+    <string name="listItemRemovedPositions">Removed positions: %s</string>
+
+</resources>
