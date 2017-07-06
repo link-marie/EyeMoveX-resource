@@ -144,4 +144,23 @@
     <string name="listItemTapToUndo">キャンセル</string>
     <string name="listItemRemovedPositions">消去位置: %s</string>
 
+    <string name="prefWallPaperDlgBlurTitle">ぼかし</string>
+    <string name="prefWallPaperDlgCheckBox">壁紙を有効化</string>
+    <string name="prefWallpaperSummary2">有効/無効 画像と効果</string>
+    <string name="prefWallpaperSummaryBlur">ぼかしレベル %1$s[%%]</string>
+    <string name="prefWallpaperTitle2">壁紙</string>
+    <string name="transHelpActivity">翻訳</string>
+    <string name="transHelpActivityBtnDetail">詳細</string>
+    <string name="transHelpActivityCodeContents">アプリをアップグレードして下さい</string>
+    <string name="transHelpActivityCodeTitle">シークレット・コードをお持ちですか?</string>
+    <string name="transHelpActivityContents">このアプリはあなたの言語をサポートする必用があります。あなたの言語に翻訳するためのお手伝いをしていただけませんか? 詳細を確認して下さい。</string>
+    <string name="transHelpActivityDoneContents">アプリはアップグレードされました。</string>
+    <string name="transHelpActivityDoneTitle">あなたの貢献に感謝します!</string>
+    <string name="transHelpActivityTitle">あなたの翻訳のお手伝いが必用です!</string>
+    <string name="transHelpActivityUpdateFail">アプリのアップグレードに失敗しました</string>
+    <string name="transHelpMenuDescription">あなたの言語をサポートする手助けが必用です</string>
+    <string name="transHelpMenuDescription2">あなたの言語をサポートする手助けが必用です</string>
+    <string name="transHelpMenuTitle">翻訳の助けが必用です</string>
+    <string name="translateHelpBtnSecretCode">コード</string>
+
 </resources>

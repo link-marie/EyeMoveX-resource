@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="marketAppTitle">EyeMove EMDR セラピー</string>
-    <string name="marketShortDescription">EyeMoveX EMDR トラウマ セラピー
-
-EMDRはPTSD、トラウマ、パニック障害、恐怖症などに有効であると認定されています。
+    <string name="marketAppTitle">EyeMove トラウマ・セラピー</string>
+    <string name="marketShortDescription">EMDRはPTSD、トラウマ、パニック障害、恐怖症などに有効であると認定されています。
 スムーズなアニメーションでその効果をご自身で試してみませんか?</string>
 
     <string name="marketDescription">
 <![CDATA[
+
+EyeMoveX EMDR トラウマ セラピー
+
+EMDRはPTSD、トラウマ、パニック障害、恐怖症などに有効であると認定されています。
+スムーズなアニメーションでその効果をご自身で試してみませんか?
 
 このアプリをお選びいただき、ありがとうございます!
 
@@ -20,7 +23,7 @@ EMDR はPTSD、トラウマ、パニック障害、恐怖症などに有効で�
 - OpenGLによるスムーズなアニメーション
 - 移動体の形を選択できます
 - 集中できるフルスクリーン表示
-- 可変できる動作時間 10秒から5分、またはエンドレス
+- 可変できる動作時間 10秒から5分
 - 移動体のスピード、大きさ、色などをお好みに
 - BGMとして、お持ちの音楽、ナチュラルサウンドなどを
 - タブレットにも対応
