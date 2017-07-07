@@ -19,7 +19,7 @@ By adding translated strings,
 the app will support new language.
 
 If you want to use the app with your mother language,
- please consider to translate the string resources.
+ please consider to translate and submit string resources.
 
 When your translation is adopted to this app, 
 you will receive *'secret code'* for upgrading the app to paid version!! 
