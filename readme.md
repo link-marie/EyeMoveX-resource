@@ -94,6 +94,9 @@ https://github.com/link-marie/EyeMoveX-resource
 and your translation is adopted to the app, 
 you will get a secret code for upgrading the app from *free* to *paid* version!!
 
+![Upgrade Screen](https://github.com/link-marie/EyeMoveX-resource/blob/master/Dept/screen02.png)
+
+
 # File format
 
 String resources are described in several XML files.
@@ -159,7 +162,7 @@ Those are argument for string and filled text by programing code.
 
 html text can be used surrounded by \<!\[CDATA\[ ---- \]\]\> keyword.  
 
-```HTML
+```XML
 <string name="string_html">
 
 <![CDATA[
@@ -167,7 +170,8 @@ html text can be used surrounded by \<!\[CDATA\[ ---- \]\]\> keyword.
 HTML text in here <br>
 with limited set of html 
 
- ]]>
+]]>
+
 </string>
 
 
