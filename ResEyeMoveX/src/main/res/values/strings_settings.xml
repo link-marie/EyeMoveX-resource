@@ -12,7 +12,7 @@
         <item>1</item>
     </string-array>
     <string name="theme_preference_default_value" translatable="false">0</string>
-    
+
     <string name="pref_header_general">General</string>
     <string name="pref_header_general_summary">Settings about the app</string>
 
@@ -35,35 +35,35 @@
 
     <string name="pref_header_app">App</string>
     <string name="pref_header_app_summary">Review, Feedback, &#8230;</string>
-    
+
     <string name="helpReview">Review</string>
     <string name="helpReviewThisApp">Love this app? Tell others with a review ツ</string>
 
     <string name="helpSendFeedback">Send feedback</string>
     <string name="helpSendFeedbackSummary1">Got a feature suggestion? Found a bug? Let us know at %1$s</string>
-    
+
     <string name="helpUpdateInfo">Update information</string>
     <string name="helpUpdateInfoSummary">Show latest changes</string>
-    
+
     <string name="helpHowToUse">How to use</string>
     <string name="helpHowToUseSummary">Wiki</string>
-    
+
     <string name="helpAcknowledgement">Acknowledgement</string>
     <string name="helpAcknowledgementSummary">Open source libraries, Tools used for creating this app</string>
-    
+
     <string name="helpDisclaimers">Disclaimers</string>
     <string name="helpDisclaimersSummary">Confirm precautions</string>
-    
+
     <string name="helpPrivacyPolicy">Privacy policy</string>
     <string name="helpPrivacyPolicySummary">This app does not collect any private information.</string>
-    
+
     <string name="helpAbout">About</string>
 
     <string name="pref_menu_mode">Mode</string>
     <string name="pref_menu_support">Support</string>
     <string name="pref_menu_params">Params</string>
 
-	<!-- Settings for ScreenLock -->
+    <!-- Settings for ScreenLock -->
     <string name="prefScreenLock">ScreenLock</string>
     <string name="prefTitleScreenLock">Screen Lock</string>
     <string-array name="prefScreenLockTitles">

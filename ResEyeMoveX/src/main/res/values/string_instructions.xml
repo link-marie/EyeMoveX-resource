@@ -154,7 +154,7 @@
  ]]>
 </string>
 
-<string name="textPhase1">
+    <string name="textPhase1">
 <![CDATA[
     <h4>History of early development, illness and&nbsp; treatment planning</h4>
     If you choose to try EMDR therapy,&nbsp; your first session will likely
@@ -182,7 +182,7 @@
 
  ]]>
 </string>
-<string name="textPhase2">
+    <string name="textPhase2">
 <![CDATA[
     Your therapist will explain the theory of EMDR in detail, and talk about
     what you can expect in the following sessions.<br>
@@ -199,7 +199,7 @@
 
  ]]>
 </string>
-<string name="textPhase3">
+    <string name="textPhase3">
 <![CDATA[
     <p>The assessment phase creates the groundwork for your actual EMDR
       therapy sessions. <br>
@@ -239,7 +239,7 @@
     <hr>
  ]]>
 </string>
-<string name="textPhase3Validation">
+    <string name="textPhase3Validation">
 <![CDATA[
     <p>
     Validations are done before and after an EMDR session.
@@ -289,7 +289,7 @@
 
  ]]>
 </string>
-<string name="textPhase4">
+    <string name="textPhase4">
 <![CDATA[
  Desensitization is a method reducing irritability by getting closer to your
     unpleasure target step by step. <br>
@@ -328,7 +328,7 @@
     <br>
  ]]>
 </string>
-<string name="textPhase5">
+    <string name="textPhase5">
 <![CDATA[
  In this installation phase, focus on the positive belief you’ve identified
     to replace your old negative belief about the trauma. <br>
@@ -359,7 +359,7 @@
     <br>
  ]]>
 </string>
-<string name="textPhase6">
+    <string name="textPhase6">
 <![CDATA[
     In phase 5, you replaced negative beliefs surrounding the trauma with
     healthier, positive beliefs.<br>
@@ -388,7 +388,7 @@
     <br>
  ]]>
 </string>
-<string name="textPhase7">
+    <string name="textPhase7">
 <![CDATA[
     <p>One of the goals of an EMDR session is for you to become feeling better
       than you did when you started. <br>
@@ -413,7 +413,7 @@
     <br>
  ]]>
 </string>
-<string name="textPhase8">
+    <string name="textPhase8">
 <![CDATA[
     <p>Each new session begins with a reevaluation of your progress. <br>
       First, you will be asked to focus on any targets you’ve already
@@ -432,7 +432,7 @@
     <br>
  ]]>
 </string>
-<string name="textProsCons">
+    <string name="textProsCons">
 <![CDATA[
     <p>EMDR therapy is relatively new, developed in 1987, and the scientific
       community continues<br>
@@ -478,7 +478,7 @@
     <br>
  ]]>
 </string>
-<string name="textResearch">
+    <string name="textResearch">
 <![CDATA[
     <p>There is a vigorous debate within the psychological community regarding
       the efficacy of EMDR, especially when compared with other types of
@@ -503,7 +503,7 @@
     <br>
 ]]>
 </string>
-<string name="textFindAnTherapist">
+    <string name="textFindAnTherapist">
 <![CDATA[
     <p>EMDR is a highly specialized therapy that should be conducted by a
       licensed mental health professional who has specific training in this
