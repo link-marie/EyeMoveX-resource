@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="intro1Title">Get Started</string>
+    <string name="intro1Description">Press to start.\nRotate to choose an action.</string>
+    <string name="intro2Title">Set Duration</string>
+    <string name="intro2Description">Press to change time.\nRotate for adjustments.</string>
+    <string name="introSequenceTitle">Sequence</string>
+    <string name="introSequenceDescription">Validate your condition\nbefore and after each session</string>
+    <string name="introProgressTitle">Improvement Progress\nValidation history</string>
+    <string name="introProgressDescription"> session results\nby checking VOC and SUD values</string>
+    <string name="introParamsTitle">Discover Yourself the Right Settings</string>
+    <string name="introParamsDescription">Choose the most effective object,\nColor and parameters.</string>
+    <string name="introSettingsTitle">Detail Settings</string>
+    <string name="introSettingsDescription">From [Settings]\nchoose detailed options\nWallpaper, Orientation, etc.</string>
+    <string name="intro4Title">What is EMDR</string>
+    <string name="intro4Description">Learn correctly about EMDR detail.</string>
+    <string name="intro4Click">GET MORE INFO!</string>
+
+    <string name="introDesclaimers">This application is not designed for medical treatment. For treatment, please consult a professional near you.</string>
+    <string name="introAmazonOpen">opens Amazon\'s page</string>
+
+</resources>

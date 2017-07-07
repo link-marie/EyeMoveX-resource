@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_disclaimers">Disclaimers</string>
+    <string name="text_disclaimer">
+<![CDATA[
+
+This application is not designed for medical treatment. 
+Please refrain from using when you are not in a good condition of health.
+Please stop using immediately if you feel any changes in your health condition (such as feeling sick).
+
+ ]]>
+</string>
+
+</resources>
